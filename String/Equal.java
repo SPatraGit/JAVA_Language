@@ -1,5 +1,3 @@
-package String;
-
 import java.util.Scanner;
 public class Equal {
     public static void main(String[] args) {
